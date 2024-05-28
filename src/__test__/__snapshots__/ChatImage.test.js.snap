@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="makeStyles-imageContainer-10"
+  data-testid="chat-image"
+>
+  <img
+    alt="nullable"
+    className="makeStyles-photoSingle-12"
+    data-testid="nullable-image"
+    onError={[Function]}
+    src="Person.png"
+  />
+</div>
+`;

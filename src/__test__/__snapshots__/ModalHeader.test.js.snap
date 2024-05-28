@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="MuiContainer-root makeStyles-root-4 MuiContainer-maxWidthLg"
+  data-testid="modal-header"
+>
+  <p
+    className="MuiTypography-root makeStyles-title-6 MuiTypography-body1"
+  >
+    Ternologic
+  </p>
+  <input
+    className="makeStyles-inputBox-5"
+    onChange={[Function]}
+    placeholder="Group chat name"
+    type="text"
+    value=""
+  />
+</div>
+`;

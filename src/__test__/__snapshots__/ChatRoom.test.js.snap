@@ -1,0 +1,206 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="MuiPaper-root MuiAccordion-root makeStyles-accordion-2 makeStyles-accordion-13 MuiAccordion-rounded MuiPaper-elevation1 MuiPaper-rounded"
+  data-testid="chat-room"
+  onClick={[Function]}
+>
+  <div
+    aria-disabled={false}
+    aria-expanded={false}
+    className="MuiButtonBase-root MuiAccordionSummary-root makeStyles-accordionSummary-5"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <div
+      className="MuiAccordionSummary-content makeStyles-accordionSummaryContent-7"
+    >
+      <div
+        data-testid="chat-room-header"
+      >
+        <div
+          className="MuiContainer-root makeStyles-root-14 MuiContainer-maxWidthLg"
+        >
+          <div
+            className="makeStyles-detailsContainer-16"
+          >
+            <div
+              className="makeStyles-imageContainer-18"
+            />
+            <div
+              className="makeStyles-info-19"
+            >
+              <div
+                className="makeStyles-name-20 makeStyles-name-25"
+              >
+                
+              </div>
+              <div
+                className="makeStyles-department-21 makeStyles-department-26"
+              >
+                
+              </div>
+            </div>
+          </div>
+          <div
+            className="makeStyles-iconContainer-17 makeStyles-iconContainer-24"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root"
+              focusable="false"
+              onClick={[Function]}
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M15 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm-9-2V7H4v3H1v2h3v3h2v-3h3v-2H6zm9 4c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+              />
+            </svg>
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root makeStyles-closeIcon-15"
+              focusable="false"
+              onClick={[Function]}
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiCollapse-container MuiCollapse-hidden"
+    style={
+      Object {
+        "minHeight": "0px",
+      }
+    }
+  >
+    <div
+      className="MuiCollapse-wrapper"
+    >
+      <div
+        className="MuiCollapse-wrapperInner"
+      >
+        <div
+          role="region"
+        >
+          <hr
+            className="makeStyles-hr-11"
+          />
+          <div
+            className="MuiAccordionDetails-root makeStyles-accordionDetails-3"
+          >
+            <div
+              className="makeStyles-messageContainer-10"
+            >
+              <div
+                className="makeStyles-root-27"
+                data-testid="chat-content"
+                onScroll={[Function]}
+              >
+                <br />
+              </div>
+              <div
+                className="MuiContainer-root makeStyles-root-36 MuiContainer-maxWidthLg"
+                data-testid="chat-input"
+              >
+                <div
+                  className="react-emoji"
+                >
+                  <div
+                    className="react-emoji-picker--container"
+                  >
+                    <div
+                      className="react-emoji-picker--wrapper"
+                    >
+                      <div
+                        className="react-emoji-picker"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    className="react-input-emoji--container"
+                    style={
+                      Object {
+                        "borderColor": "#EAEAEA",
+                        "borderRadius": 21,
+                        "fontFamily": "sans-serif",
+                        "fontSize": 15,
+                      }
+                    }
+                  >
+                    <div
+                      className="react-input-emoji--wrapper"
+                      onClick={[Function]}
+                    >
+                      <div
+                        className="react-input-emoji--placeholder"
+                      >
+                        Message
+                      </div>
+                      <div
+                        className="react-input-emoji--input"
+                        contentEditable={true}
+                        onBlur={[Function]}
+                        onKeyDown={[Function]}
+                        tabIndex={0}
+                      />
+                    </div>
+                  </div>
+                  <button
+                    className="react-input-emoji--button"
+                    onClick={[Function]}
+                  >
+                    <svg
+                      height="24"
+                      viewBox="0 0 24 24"
+                      width="24"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0m0 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10"
+                      />
+                      <path
+                        d="M8 7a2 2 0 1 0-.001 3.999A2 2 0 0 0 8 7M16 7a2 2 0 1 0-.001 3.999A2 2 0 0 0 16 7M15.232 15c-.693 1.195-1.87 2-3.349 2-1.477 0-2.655-.805-3.347-2H15m3-2H6a6 6 0 1 0 12 0"
+                      />
+                    </svg>
+                  </button>
+                </div>
+                <svg
+                  aria-hidden={true}
+                  className="MuiSvgIcon-root makeStyles-icon-34"
+                  focusable="false"
+                  onClick={[Function]}
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

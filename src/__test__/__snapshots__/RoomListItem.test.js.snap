@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="makeStyles-root-22 makeStyles-root-25"
+  data-testid="room-list-item"
+  onClick={[Function]}
+  style={Object {}}
+>
+  <div
+    className="makeStyles-imageContainer-26"
+    data-testid="chat-image"
+  >
+    <img
+      alt="nullable"
+      className="makeStyles-photoSingle-28"
+      data-testid="nullable-image"
+      onError={[Function]}
+      src="Person.png"
+    />
+  </div>
+  <div
+    className="makeStyles-info-19"
+  >
+    <div
+      className="makeStyles-name-20"
+    >
+      Group chat room
+    </div>
+    <div
+      className="makeStyles-occupation-21"
+    >
+      
+    </div>
+  </div>
+</div>
+`;

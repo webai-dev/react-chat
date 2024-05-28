@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="MuiContainer-root makeStyles-root-9 MuiContainer-maxWidthLg"
+  data-testid="modal-list"
+>
+  <div
+    className="makeStyles-root-15"
+    data-testid="team-list-content"
+  >
+    <span />
+  </div>
+</div>
+`;

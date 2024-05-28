@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <div
+      className="MuiGrid-root makeStyles-root-25 makeStyles-root-46 MuiGrid-container MuiGrid-justify-xs-flex-end"
+      data-testid="chat-content-item"
+    >
+      <div
+        className="makeStyles-userContainer-36"
+      >
+        <div
+          className="makeStyles-user-38"
+        />
+        <div
+          className="makeStyles-time-39"
+        >
+          Invalid Date
+        </div>
+      </div>
+      <div
+        className="makeStyles-messageContainer-37"
+      >
+        <div
+          className="makeStyles-message-40"
+        >
+          
+        </div>
+        <div />
+      </div>
+    </div>
+  </div>
+  <div
+    className="makeStyles-reactionsContainer-42 makeStyles-reactionsContainer-48"
+  />
+</div>
+`;

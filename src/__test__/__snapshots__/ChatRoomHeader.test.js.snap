@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  data-testid="chat-room-header"
+>
+  <div
+    className="MuiContainer-root makeStyles-root-14 MuiContainer-maxWidthLg"
+  >
+    <div
+      className="makeStyles-detailsContainer-16"
+    >
+      <div
+        className="makeStyles-imageContainer-18"
+      />
+      <div
+        className="makeStyles-info-19"
+      >
+        <div
+          className="makeStyles-name-20 makeStyles-name-25"
+        >
+          
+        </div>
+        <div
+          className="makeStyles-department-21 makeStyles-department-26"
+        >
+          
+        </div>
+      </div>
+    </div>
+    <div
+      className="makeStyles-iconContainer-17 makeStyles-iconContainer-24"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        onClick={[Function]}
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M15 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm-9-2V7H4v3H1v2h3v3h2v-3h3v-2H6zm9 4c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+        />
+      </svg>
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root makeStyles-closeIcon-15"
+        focusable="false"
+        onClick={[Function]}
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;

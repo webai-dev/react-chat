@@ -1,0 +1,9 @@
+{
+  "name": "styles",
+  "version": "1.0.0",
+  "description": "Local package for all styles",
+  "main": "makes.alex.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
